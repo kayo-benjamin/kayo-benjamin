@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kayo and I'm a Desenvolvedor Trainee Python, C and Back-End Java. I'm very curious and I really like learning! Come see my projects!</h2>
+<h2 align="left">Hi 👋! My name is Kayo and I'm a Desenvolvedor Trainee Python, C and Back-End Java. Sou muito curioso, gosto bastante de apredender! Venha ver meus projetos!</h2>
 
 ###
 
@@ -20,12 +20,18 @@
   <a href="https://www.instagram.com/kayo_vinicius02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:kayo.vinicius034@gmail.com" target="_blank">
+  <a href="kayo.vinicius034@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kayo-vinicius-85467522b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
