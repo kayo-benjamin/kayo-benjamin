@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kayo and I'm a Trainee Dev Python, C and Back-End Java. I'm very curious and I really like learning! Come see my projects!</h2>
+<h2 align="left">Hello 👋! My name is Kayo and I'm a Python, C and Java Back-End Developer Trainee. I'm very curious and I love learning! Come see my projects!</h2>
 
 ###
 
