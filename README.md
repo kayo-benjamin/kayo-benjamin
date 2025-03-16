@@ -12,6 +12,6 @@ Fique a vontade em ver meus projetos!
 
 ##
 
-<img align="center" height="150" src="https://ardas-it.com/uploads/images/blogs/giph.gif"  />
+<img align="300px" height="150" src="https://ardas-it.com/uploads/images/blogs/giph.gif"  />
 
 ###
