@@ -68,7 +68,7 @@ Sou um estudante da melhor área que existe atualmente que é a **Tecnologia** m
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kayo-benjamin}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/kayo-benjamin/count.svg" /></p> 
   <br>
 </div>
 
