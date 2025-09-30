@@ -19,25 +19,16 @@ Sou um estudante da melhor área que existe atualmente que é a **Tecnologia** m
   - **Integração com Bancos de Dados** - Uso de JPA/Hibernate para mapeamento objeto-relacional e execução de operações eficientes em bases SQL.
   - **Orientação a Objetos** - Orientação a Objetos: Aplicação dos princípios SOLID e design patterns para desenvolver código limpo, modular e reutilizável.
 
---- 
-
-- **Python – Automatizando Processos e Otimizando Rotinas**
-  - **Web Scraping e Coleta de Dados** - Desenvolvimento de scripts com requests e BeautifulSoup para extrair informações da web de forma eficiente.
-  - **Automação de Tarefas** - Criação de rotinas automatizadas com schedule e pyautogui para reduzir atividades manuais repetitivas.
-  - **Manipulação e Análise de Dados** -  Uso de pandas e NumPy para tratar, transformar e analisar conjuntos de dados estruturados.
-
-
 
 ## 👨‍💻Conhecimentos 
 
-### Python/Java
+### Java
 
 <details>
 <summary>Conhecimentos iniciais em linguagens, bibliotecas e ferramentas voltadas ao desenvolvimento de software.</summary>
 
-  - [**Python**](https://www.python.org/): L Lógica de programação, estruturas de controle, manipulação de listas e dicionários.
   - [**Java**](https://www.java.com/): Sintaxe básica, orientação a objetos (classes, métodos, atributos) e uso de IDEs como Eclipse/IntelliJ.
-  - [**VS Code & Eclipse:**](https://code.visualstudio.com/): Ambientes de desenvolvimento utilizados em projetos de aprendizado.
+  - [**VS Code & JetBrains:**](https://code.visualstudio.com/): Ambientes de desenvolvimento utilizados em projetos de aprendizado.
   - [**Git e GitHub**](https://github.com/): Manipulação e análise de dados estruturados.
   - [**Lógica de Programação:**](hhttps://www.w3schools.com/): Gerenciamento de ciclo de vida de modelos, incluindo experimentos e re-treinamento.
 </details>
